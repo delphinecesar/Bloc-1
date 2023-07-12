@@ -16,6 +16,6 @@ Create an fraudulent payment detector using any AI library that you know of.
 Create an infrastructure that ingest real-time payment
 Automatically classify each payment and send back this prediction in real-time to a notification cente
 
-## Certification details:
+## Certification information:
 * Email adress: delphinecesar@gmail.com
 * Video presentation:
