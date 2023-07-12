@@ -22,5 +22,5 @@ Create an infrastructure that ingest real-time payment
 Automatically classify each payment and send back this prediction in real-time to a notification cente
 
 ## Certification information
-* Email adress: delphinecesar@gmail.com
+* Email address: delphinecesar@gmail.com
 * Video presentation:
