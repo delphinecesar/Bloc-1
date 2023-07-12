@@ -1,5 +1,10 @@
 # Bloc 1: Automatic Fraud Detection Project
 
+## Team
+* Delphine César
+* Caroline Mathius
+* Abel Mebkhout
+
 ## Context 📇
 
 Fraud is a huge issue among financial institutions. In the EU in 2019, the European Central Bank estimated that fraudulent credit card transactions amounted more €1 billion! 😮
