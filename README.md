@@ -1,5 +1,9 @@
 # Bloc 1: Automatic Fraud Detection Project
 
+## Certification information
+* Email address: delphinecesar@gmail.com
+* Video presentation: https://share.vidyard.com/watch/ookcqHfiHhGCmTZe5EKAca
+
 ## Team
 * Delphine César
 * Caroline Mathius
@@ -20,7 +24,3 @@ Your goal as a team of Machine Learning Engineers is to:
 Create an fraudulent payment detector using any AI library that you know of.
 Create an infrastructure that ingest real-time payment
 Automatically classify each payment and send back this prediction in real-time to a notification cente
-
-## Certification information
-* Email address: delphinecesar@gmail.com
-* Video presentation: https://share.vidyard.com/watch/ookcqHfiHhGCmTZe5EKAca
