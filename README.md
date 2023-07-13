@@ -23,4 +23,4 @@ Automatically classify each payment and send back this prediction in real-time t
 
 ## Certification information
 * Email address: delphinecesar@gmail.com
-* Video presentation: https://share.vidyard.com/watch/ookcqHfiHhGCmTZe5EKAca?
+* Video presentation: https://share.vidyard.com/watch/ookcqHfiHhGCmTZe5EKAca
